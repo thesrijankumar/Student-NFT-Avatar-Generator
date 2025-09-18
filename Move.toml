@@ -1,0 +1,16 @@
+[package]
+name = "Student_NFT_Avatar_Generator–Rewarded_for_completion"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "30853bf2e6167e46a73b93eb42baa908f33816931560e131511859ca65b9c0db"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
