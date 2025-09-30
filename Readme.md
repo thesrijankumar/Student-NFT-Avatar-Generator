@@ -53,6 +53,10 @@ Our vision is to revolutionize education by creating an engaging, reward-based l
 - DAO governance for community-driven platform decisions
 - Integration with real-world credential verification systems
 
+## Demo
+
+<video controls src="20250930-1550-41.4030052.mp4" title="Title"></video>
+
 ## Contract Details
 0x99fdafebc4b079bfb16acff3643ec33b563ff088762f0f41dad1952c34e4cd0e
 ![alt text](image.png)
