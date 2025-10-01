@@ -1,12 +1,15 @@
-import React from 'react';
-import StudentNFTApp from "./StudentNFTApp"
+import React from "react";
+import { AptosWalletAdapterProvider } from "@aptos-labs/wallet-adapter-react";
+import { PetraWallet } from "petra-plugin-wallet-adapter";
+import StudentNFTApp from "./StudentNFTApp";
 
-const App = () => {
+function App() {
+
   return (
-    <div>
-        <StudentNFTApp />
-    </div>
-  )
+    <AptosWalletAdapterProvider autoConnect={true}>
+      <StudentNFTApp />
+    </AptosWalletAdapterProvider>
+  );
 }
 
-export default App
+export default App;

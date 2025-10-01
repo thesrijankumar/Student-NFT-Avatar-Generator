@@ -58,5 +58,5 @@ Our vision is to revolutionize education by creating an engaging, reward-based l
 <video controls src="20250930-1550-41.4030052.mp4" title="Title"></video>
 
 ## Contract Details
-0x99fdafebc4b079bfb16acff3643ec33b563ff088762f0f41dad1952c34e4cd0e
+0x42545ba10b9b56c388418ac72a59cfd3810df52b09b9d12e4ee60a994f3cca4b
 ![alt text](image.png)
