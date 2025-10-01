@@ -57,6 +57,9 @@ Our vision is to revolutionize education by creating an engaging, reward-based l
 
 transaction : https://explorer.aptoslabs.com/txn/6890363961/balanceChange?network=testnet
 
+
+Video: https://youtu.be/Gy3SO07JAWI
+
 ## Contract Details
 0x42545ba10b9b56c388418ac72a59cfd3810df52b09b9d12e4ee60a994f3cca4b
 ![alt text](image.png)
